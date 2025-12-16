@@ -1,5 +1,4 @@
 <?php
-// ===== حماية الصفحة (بنفس طريقة السلايدات) =====
 session_start();
 
 if (!isset($_SESSION['user'])) {
